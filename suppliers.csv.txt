@@ -1,0 +1,4 @@
+supplier_name,country_risk_score,single_source,financial_health_score,chokepoint_exposure
+Apex Microelectronics,8,YES,2,YES
+Global Logistics Co,3,NO,8,NO
+IndoPacific Components,6,YES,5,YES
